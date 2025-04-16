@@ -15,12 +15,12 @@ import Main from './components/main'
 function App() {
   return (
 <div className="flex">
-  {/* <Register/> */}
+  <Register/>
   {/* <Sidebar /> */}
-  {/* <PlantesDashboard/> */}
+  <PlantesDashboard/>
   {/* <NavBar/>
   <Hero/> */}
-  <AddPlantForm/>
+  
   
   {/* <Main /> */}
 </div>
